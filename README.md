@@ -10,4 +10,5 @@ Download lists.py and main.py into the same directory.
 Execute main.py via command 'python2 main.py' or your favorite Python IDE.
 
 Screenshot:
+
 ![Todo List Screenshot](https://lh3.googleusercontent.com/RoNEveiiCiCJFCdTfDIgrMoWU7Pp3xb5ll9xLxVOgfeda_ClJILwGFjc3guKHl03RRoisst_aqQ=w1478-h695)
